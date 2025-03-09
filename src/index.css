@@ -28,7 +28,7 @@ body {
 }
 
 .background-image {
-  @apply bg-[url(../public/assets/terminal.png)];
+  @apply bg-[url(/assets/terminal.png)];
 }
 
 .c-space {
